@@ -3,7 +3,8 @@
   <entry>
     <title>搭建服务器</title>
     <url>/2022/12/26/%E6%90%AD%E5%BB%BA%E6%9C%8D%E5%8A%A1%E5%99%A8/</url>
-    <content><![CDATA[<h1 id="搭建服务器"><a href="#搭建服务器" class="headerlink" title="搭建服务器"></a>搭建服务器</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>Windows</p>
+    <content><![CDATA[<h1 id="搭建服务器"><a href="#搭建服务器" class="headerlink" title="搭建服务器"></a>搭建服务器</h1><span id="more"></span>
+<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>Windows</p>
 <h2 id="hexo博客框架"><a href="#hexo博客框架" class="headerlink" title="hexo博客框架"></a>hexo博客框架</h2><h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>​<code>hexo</code>​是一个基于nodejs的静态博客网站生成器，作者是来自台湾的<code>Tommy Chen</code>​，为许多技术博客的博主所青睐，主要有如下的一些优点：</p>
 <ul>
 <li>支持<code>Markdown</code>​语法，编辑简单，排版优美；</li>
