@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #282b42;
+  background: #3224ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2728,7 +2728,7 @@ body {
   color: #800;
 }
 body {
-  background: url("http://rnw4ar625.hb-bkt.clouddn.com/img/siyuan/background.jpg");
+  background: url("http://rnw4ar625.hb-bkt.clouddn.com/img/siyuan/1110448.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
