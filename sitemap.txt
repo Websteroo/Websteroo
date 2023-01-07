@@ -6,3 +6,7 @@ http://yyxhw.cn/about/index.html
 http://yyxhw.cn/resources/index.html
 http://yyxhw.cn/categories/index.html
 http://yyxhw.cn/
+http://yyxhw.cn/tags/%E5%9B%BE%E5%BA%8A/
+http://yyxhw.cn/tags/Typora/
+http://yyxhw.cn/tags/PicGo/
+http://yyxhw.cn/categories/%E5%B7%A5%E5%85%B7/

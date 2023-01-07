@@ -23,7 +23,7 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>我的图床方案： Picgo+Typora+阿里云OSS存储</title>
     <url>/2023/01/07/%E6%88%91%E7%9A%84%E5%9B%BE%E5%BA%8A%E6%96%B9%E6%A1%88%EF%BC%9A%20Github%20+%20JsDelivr/</url>
     <content><![CDATA[<h1>我的图床方案： Picgo+Typora+阿里云OSS存储</h1>
 <h2 id="前言：">前言：</h2>
@@ -37,7 +37,6 @@
 <p>图床工具是：<a href="%5BPicGo%5D(https://picgo.github.io/PicGo-Doc/zh/)">PicGo</a></p>
 <p>MarkDown编辑器：<a href="https://typoraio.cn/">Typora</a></p>
 <h2 id="Picgo-Typora-阿里云OSS存储">Picgo+Typora+阿里云OSS存储</h2>
-<p>[TOC]</p>
 <h3 id="1-开通阿里云对象存储">1. 开通<a href="https://www.aliyun.com/">阿里云对象存储</a></h3>
 <img src="https://img-repository1.oss-cn-hangzhou.aliyuncs.com/image/image-20230107155653274.png" alt="image-20230107155653274" style="zoom:80%;">
 <img src="https://img-repository1.oss-cn-hangzhou.aliyuncs.com/image/image-20230107155926512.png" alt="image-20230107155926512" style="zoom:80%;">
@@ -113,5 +112,13 @@
 <p><a href="https://blog.csdn.net/qq_51808107/article/details/124044961"> 手把手教你Typora图床配置(PicGo+阿里云OSS/腾讯云COS)_孙不坚1208的博客-CSDN博客_typora 图床</a></p>
 <p><a href="https://developer.aliyun.com/article/976564">阿里云OSS图床搭建-阿里云开发者社区 (aliyun.com)</a></p>
 ]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>图床</tag>
+        <tag>Typora</tag>
+        <tag>PicGo</tag>
+      </tags>
   </entry>
 </search>
